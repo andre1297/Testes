@@ -1,0 +1,9 @@
+C:\Users\andre\Desktop\Teste função sistemas\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\andre\Desktop\Teste função sistemas\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\andre\Desktop\Teste função sistemas\FI.AtividadeEntrevista\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\Teste função sistemas\FI.AtividadeEntrevista\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre\Desktop\Teste função sistemas\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Teste função sistemas\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Teste função sistemas\FI.AtividadeEntrevista\obj\Debug\FI.Ativi.A54B2C84.Up2Date
+C:\Users\andre\Desktop\Teste função sistemas\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\andre\Desktop\Teste função sistemas\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
